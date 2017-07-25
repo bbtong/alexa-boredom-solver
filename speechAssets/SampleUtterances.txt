@@ -2,11 +2,17 @@ DescriptionIntent {Description} please
 DescriptionIntent please {Description}
 DescriptionIntent {Description}
 DescriptionIntent can you {Description}
+DescriptionIntent explain {Description}
+DescriptionIntent what is {Description}
 DescriptionIntent tell me about that
 DescriptionIntent description please
 AMAZON.StopIntent stop
 AMAZON.StopIntent off
 AMAZON.StopIntent shut up
+AMAZON.StopIntent turn off
+AMAZON.StopIntent not bored anymore
+AMAZON.StartOverIntent I am bored
+AMAZON.StartOverIntent still bored
 AMAZON.StartOverIntent start over
 AMAZON.StartOverIntent restart
 AMAZON.StartOverIntent start again

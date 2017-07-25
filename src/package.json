@@ -1,12 +1,12 @@
 {
-  "name": "DecisionTree",
+  "name": "Boredom Solver",
   "version": "1.0.0",
-  "description": "Alexa Decision Tree template",
+  "description": "Solve your boredom fast",
   "main": "index.js",
   "dependencies": {
     "alexa-sdk": "^1.0.0"
   },
   "devDependencies": {},
-  "author": "Amazon.com",
+  "author": "btong.me",
   "license": "SEE LICENSE IN license.md"
 }

@@ -1,0 +1,1 @@
+Boredom Solver made by Bryan Tong (btong.me), modified template for Alexa skill
